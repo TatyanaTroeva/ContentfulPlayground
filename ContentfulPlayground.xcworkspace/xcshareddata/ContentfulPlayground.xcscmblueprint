@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7FF5B2A241CF694D07B81C2135601052A657E620",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7FF5B2A241CF694D07B81C2135601052A657E620" : 0,
+    "045B897CC21A646C1435B9CF9C72A49A084D8397" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C519A954-54BD-4F1A-9E4D-5E2A5F7D05E9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7FF5B2A241CF694D07B81C2135601052A657E620" : "ContentfulPlayground\/",
+    "045B897CC21A646C1435B9CF9C72A49A084D8397" : "contentful.swift\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ContentfulPlayground",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ContentfulPlayground.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:contentful\/contentful.swift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "045B897CC21A646C1435B9CF9C72A49A084D8397"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:contentful\/ContentfulPlayground.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7FF5B2A241CF694D07B81C2135601052A657E620"
+    }
+  ]
+}
