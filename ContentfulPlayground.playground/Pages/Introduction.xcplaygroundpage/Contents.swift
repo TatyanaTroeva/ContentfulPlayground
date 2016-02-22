@@ -8,7 +8,6 @@ XCPlaygroundPage.currentPage.needsIndefiniteExecution = true
 /*: Contentful is an API-first CMS which helps developers put content in their apps with API calls, and offers editors a familiar-looking web app for creating and managing content.
 
 This Playground shows how to make a call to the Contentful API, explains what the response looks like, and suggests some relevant next steps. */
-
 import Contentful
 
 /*: This is the space ID. A space is like a project folder in Contentful terms. */
