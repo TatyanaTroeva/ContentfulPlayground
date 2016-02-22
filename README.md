@@ -6,7 +6,9 @@ A Swift Playground which introduces you to [Contentful's][1] Content Delivery AP
 
 ## Usage
 
-TBD
+1. Open `ContentfulPlayground.xcworkspace` with Xcode.
+1. Build the "ContentfulPlayground" scheme.
+1. Open the "Introduction" page of the Playground.
 
 ## License
 
