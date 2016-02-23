@@ -13,11 +13,16 @@ PODS:
   - "\U0001F555 (0.0.1)"
 
 DEPENDENCIES:
-  - Contentful (from `../contentful.swift`)
+  - Contentful (from `https://github.com/contentful/contentful.swift`)
 
 EXTERNAL SOURCES:
   Contentful:
-    :path: ../contentful.swift
+    :git: https://github.com/contentful/contentful.swift
+
+CHECKOUT OPTIONS:
+  Contentful:
+    :commit: e45fc23d6dc1845cf4a9038eff18868283e7d528
+    :git: https://github.com/contentful/contentful.swift
 
 SPEC CHECKSUMS:
   Contentful: 07f9ad26de428ffbaea582ac044df52c8f1bba3f
@@ -25,6 +30,6 @@ SPEC CHECKSUMS:
   Interstellar: 3d47f37eff7e81fbaa9a74bd903f362eb165b159
   "\U0001F555": 2a41c1f9b76698cb697b8ec9a1db1087f5621187
 
-PODFILE CHECKSUM: 619af60992d74f07654f79a02be7d50462061653
+PODFILE CHECKSUM: c477939000068aca470ead6e454561648f225322
 
 COCOAPODS: 1.0.0.beta.3
